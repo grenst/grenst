@@ -1,7 +1,12 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&width=155&height=40&lines=Hi+there!+%F0%9F%91%8B+" alt="SVG" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=5000&color=0AB64D&repeat=false&random=true&width=435&height=40&lines=my+name+is+Andrii+Makarov" alt="SVG" />
 
 I am developer from Ukraine. 
-Here some things about me:
+<mark>Here some things about me</mark>:
+
+<a href="https://github.com/grenst"><img align="left" width="48%" src="https://streak-stats.demolab.com?user=grenst&theme=neon-dark&hide_border=true&mode=weekly&dates=A3E5A6" alt="GitHub Streak" /></a>
+<a href="https://github.com/grenst"><img width="46%" src="https://github-readme-stats.vercel.app/api?username=grenst&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="GitHub Stats" /></a>
+<!-- <a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grenst&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" /></a> -->
+
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -13,7 +18,6 @@ Here some things about me:
       <a href="https://github.com/search?q=user%3Agrenst+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Agrenst+language%3AJavaScript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3Agrenst+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Agrenst+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Agrenst+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Agrenst+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Agrenst+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
@@ -71,12 +75,7 @@ Here some things about me:
   </p>
 </details>
 
-
-
-<a href="https://github.com/grenst"><img src="https://streak-stats.demolab.com?user=grenst&theme=neon-dark&hide_border=true&mode=weekly&dates=A3E5A6" alt="GitHub Streak" /></a>
-<a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api?username=grenst&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="GitHub Stats" /></a>
-<!-- <a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grenst&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" /></a> -->
-
+#
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
