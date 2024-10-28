@@ -73,13 +73,26 @@ I am developer from Ukraine. And here some things about me
 
 
 <a href="https://github.com/grenst"><img src="https://streak-stats.demolab.com?user=grenst&theme=neon-dark&hide_border=true&mode=weekly&dates=A3E5A6" alt="GitHub Streak" /></a>
-<!--  <a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grenst&layout=compact" alt="GitHub Streak" /></a>  -->
+<a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grenst&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" /></a>
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Heroku](https://img.shields.io/badge/-Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/)
 [![Python](https://img.shields.io/badge/-Python-3178C6?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ksy336&icon=0&color=0)](https://visitcount.itsvg.in)
