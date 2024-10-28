@@ -73,7 +73,8 @@ I am developer from Ukraine. And here some things about me
 
 
 <a href="https://github.com/grenst"><img src="https://streak-stats.demolab.com?user=grenst&theme=neon-dark&hide_border=true&mode=weekly&dates=A3E5A6" alt="GitHub Streak" /></a>
-<a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grenst&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" /></a>
+<a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api?username=grenst&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="GitHub Stats" /></a>
+<!-- <a href="https://github.com/grenst"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grenst&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak" /></a> -->
 
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
