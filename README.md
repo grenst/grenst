@@ -1,6 +1,7 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&width=155&height=40&lines=Hi+there!+%F0%9F%91%8B+" alt="SVG" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=5000&color=0AB64D&repeat=false&random=true&width=435&height=40&lines=my+name+is+Andrii+Makarov" alt="SVG" />
 
-I am developer from Ukraine. And here some things about me
+I am developer from Ukraine. 
+Here some things about me:
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
